@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jetpack Demo</string>
+    <string name="lang">en</string>
+
+    <string name="wallet">Wallet</string>
+    <string name="scan">Scan</string>
+    <string name="profile">Profile</string>
+
+    <string name="sales">Sales</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="my_business_card">My Business Card</string>
+    <string name="waste_link">Waste Link</string>
+    <string name="personal_details">Personal Details</string>
+
+</resources>

@@ -1,0 +1,5 @@
+rootProject.name = "jetpackDemo"
+include ':app'
+include ':base:theme'
+include ':base:common'
+include ':base:ui'

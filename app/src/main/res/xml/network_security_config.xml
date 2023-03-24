@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">sazalem.kz</domain>
+        <domain includeSubdomains="true">sazalem.com</domain>
+        <domain includeSubdomains="true">audio.sazalem.com</domain>
+        <domain includeSubdomains="true">192.168.86.29</domain>
+    </domain-config>
+</network-security-config>
