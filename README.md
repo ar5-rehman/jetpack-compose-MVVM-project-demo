@@ -1,1 +1,1 @@
-# leekim_cardscanner
+# JETPACK COMPOSE MVVM DEMO
